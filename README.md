@@ -9,6 +9,8 @@ The calling of the details pane can further be optimized to free memory by passi
 
 **Visuals**
 
+![Picture 1](https://user-images.githubusercontent.com/28135810/123601447-5d30a200-d800-11eb-8bea-ca5e2a719602.jpg)
+
  A screenshot of the NASA iOS app running on an iPhone X emulator
 The screenshots above are as listed – from left to right:
   a. Loading screen during startup.
