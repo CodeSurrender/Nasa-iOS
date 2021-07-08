@@ -10,7 +10,7 @@ import Foundation
 import UIKit
 
 
-//Image downloader
+//Image downloader Tests Branch
 
 extension UIImageView {
     func downloaded(from url: URL, contentMode mode: ContentMode = .scaleAspectFit) {
