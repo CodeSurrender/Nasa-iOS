@@ -10,8 +10,9 @@ import UIKit
 
 class ViewController: UIViewController, UITableViewDataSource, UITableViewDelegate{
 
-    
+    // hello wednesday
     // Creation
+    var a = 100
     @IBOutlet weak var nasaTableView: UITableView!
     let parser = nasaParser()
     var nasaItems = [Item]()
